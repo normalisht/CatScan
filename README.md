@@ -64,7 +64,7 @@ QRKot - это веб-приложение, разработанное для Б
 
 * Клонировать репозиторий
 ```bash
-git clone git@github.com:normalisht/ArtFood.git
+git clone git@github.com:normalisht/CatScan.git
 ```
 
 * Создать и активировать виртуальную среду, установить зависимости
